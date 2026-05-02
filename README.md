@@ -30,5 +30,3 @@ This repository contains the source code for architectural demonstration. To com
 *   Database connection strings and production server details are excluded.
 *   The project is showcased here to demonstrate expertise in **ERP Extension, Financial Logic Automation, and SAP SDK Development**.
 
----
-*Note: This project highlights my ability to translate complex financial policies into automated software solutions that reduce administrative overhead and eliminate human error in payroll processes.*
